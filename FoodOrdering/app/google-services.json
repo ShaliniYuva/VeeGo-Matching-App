@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "337982909842",
+    "firebase_url": "https://veego-b22ca-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "veego-b22ca",
+    "storage_bucket": "veego-b22ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337982909842:android:2022f48aaaca9b2291a54b",
+        "android_client_info": {
+          "package_name": "com.example.foodordering"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS0PwXr9hEigxXXltCl-8CawtPFcECzlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
