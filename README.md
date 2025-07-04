@@ -25,7 +25,7 @@ An integrated Android application that combines a Vegan Food Ordering system wit
 ## 🚀 How to Run the Project
 
 1. Clone the repository:
-git clone https://github.com/YourUsername/VeeGo-Matching-App.git
+git clone (https://github.com/ShaliniYuva/VeeGo-Matching-App.git)
 2. Open the project in **Android Studio**  
 3. Connect an Android device or run an emulator  
 4. Build and Run the application  
